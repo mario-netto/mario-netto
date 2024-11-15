@@ -1,16 +1,15 @@
-## Hi there 👋
+### oi, meu nome é mario netto!  🥷
+---
+sou engenheiro de software e estou compartilhando minha jornada em tecnologia</br>
+estudante de **análise e desenvolvimento de sistemas** na unicesumar</br>
+cursando **fullstack python** na ebac.
+acesse meu **[meu site](https://www.marionetto.me)** para ver meus trabalho 
 
-<!--
-**mario-netto/mario-netto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###você pode me achar aqui:
+---
+📸 [instagram](https://www.instagram.com/nettoprod)<br/>
+🖥️ [portfolio](https://www.marionetto.me)<br/>
+🔗 [linkedin](https://www.linkedin.com/in/marionettojr/)<br/>
+---
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mario-netto&hide=contribs,prs&theme=ocean_dark)<br/> -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mario-netto&layout=compact&theme=ocean_dark)
