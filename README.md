@@ -1,9 +1,9 @@
 ### oi, meu nome é mario netto!  🥷
 ---
-sou engenheiro de software e estou compartilhando meu aprendizado e minha jornada em tecnologia</br>
-estudante de **análise e desenvolvimento de sistemas** na unicesumar</br>
+sou engenheiro de software e estou compartilhando meu aprendizado e minha jornada em tecnologia.</br>
+estudante de **análise e desenvolvimento de sistemas** na unicesumar,</br>
 cursando **fullstack python** na ebac.
-acesse **[meu site](https://www.marionetto.me)** para ver meus trabalho 
+acesse **[meu site](https://www.marionetto.me)** para ver meus trabalho. 
 
 ###você pode me achar aqui:
 ---
