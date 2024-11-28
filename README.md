@@ -11,4 +11,4 @@ Acesse **[meu site](https://www.marionetto.me)** para ver meus trabalhos.
 🔗 Tento ser sério no [LinkedIn](https://www.linkedin.com/in/marionettojr/)  
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mario-netto&hide=contribs,prs&theme=ocean_dark) -->  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mario-netto&layout=compact&theme=material-palenight)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mario-netto&layout=compact&theme=material-palenight) -->
